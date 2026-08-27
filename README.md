@@ -45,6 +45,7 @@ export default defineConfig({
 📷 Evidencias de Validación Técnica
 🔹 Fingerprinting y Escaneo de Puertos (Nmap)
 Verificación del estado del puerto y huella digital del servicio desde el nodo Kali Linux:
+
 <img width="1366" height="708" alt="Captura de pantalla (5149)" src="https://github.com/user-attachments/assets/da7b1308-20df-433d-87e8-daa179612bcf" />
 
 
@@ -54,6 +55,7 @@ Resultado: Puerto 5173/tcp en estado OPEN. Servicio reconocido entregando el pun
 
 🔹 Inspección del Handshake HTTP (cURL)
 Validación del renderizado del DOM y retorno de cabeceras HTTP desde la terminal remota:
+
 <img width="1366" height="705" alt="Captura de pantalla (5162)" src="https://github.com/user-attachments/assets/475f767a-1892-481c-b42b-5c131f6d788c" />
 
 
@@ -65,6 +67,7 @@ Resultado: Estado HTTP 200 OK con entrega completa del marcado HTML (<div id="ro
 Captura y análisis de paquetes TCP/IP durante el intercambio de peticiones entre el Host y el cliente virtualizado.
 
 Evidencia Binaria: Se adjunta el archivo de captura nativo trafico_infrax.pcapng para análisis forense de red.
+
 <img width="1366" height="695" alt="Captura de pantalla (5161)" src="https://github.com/user-attachments/assets/c3a0800a-5bef-4a33-9cc9-b5fd90ca46e7" />
 
 
@@ -109,6 +112,7 @@ Inicia Vite en http://localhost:5173 habilitando el acceso dinámico.
 
 🔹 Resolución de Rol y Dashboard Principal
 Validación del flujo de autenticación, hidratación de perfil (Tatii Ramos) y carga dinámica del panel con permisos geoadmin:
+
 <img width="1309" height="679" alt="Captura de pantalla (5221)" src="https://github.com/user-attachments/assets/ce2085b6-4b05-4e39-ae3b-356b30646b05" />
 
 
