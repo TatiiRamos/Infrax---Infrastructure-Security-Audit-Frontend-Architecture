@@ -40,6 +40,7 @@ export default defineConfig({
     allowedHosts: true,   // Permite peticiones con headers de Host externos
   },
 })
+```
 
 📷 Evidencias de Validación Técnica
 🔹 Fingerprinting y Escaneo de Puertos (Nmap)
