@@ -106,6 +106,7 @@ npm run dev
 Inicia Vite en http://localhost:5173 habilitando el acceso dinámico.
 
 📸 Evidencias de Desarrollo Frontend & RBAC
+
 🔹 Resolución de Rol y Dashboard Principal
 Validación del flujo de autenticación, hidratación de perfil (Tatii Ramos) y carga dinámica del panel con permisos geoadmin:
 <img width="1309" height="679" alt="Captura de pantalla (5221)" src="https://github.com/user-attachments/assets/ce2085b6-4b05-4e39-ae3b-356b30646b05" />
