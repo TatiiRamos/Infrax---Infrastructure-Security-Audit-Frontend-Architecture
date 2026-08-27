@@ -122,7 +122,6 @@ Tenant Seleccionado: DEV TENANT (SMLXL · DEV)
 Módulos Validados: Acceso completo a Tenants, Métricas Sistema, Métricas Global y barra de navegación flotante.
 
 📁 Estructura del Repositorio
-Plaintext
 ├── docs/
 │   └── evidencias/         # Capturas (.png), huellas (.nmap) y paquetes (.pcapng)
 ├── src/
