@@ -122,6 +122,7 @@ Tenant Seleccionado: DEV TENANT (SMLXL · DEV)
 Módulos Validados: Acceso completo a Tenants, Métricas Sistema, Métricas Global y barra de navegación flotante.
 
 📁 Estructura del Repositorio
+```
 ├── docs/
 │   └── evidencias/         # Capturas (.png), huellas (.nmap) y paquetes (.pcapng)
 ├── src/
@@ -129,3 +130,4 @@ Módulos Validados: Acceso completo a Tenants, Métricas Sistema, Métricas Glob
 │   └── config/             # Configuración de servicios y Firebase
 ├── vite.config.ts          # Configuración de servidor y red
 └── README.md               # Documentación principal
+```
