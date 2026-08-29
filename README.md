@@ -145,7 +145,7 @@ Plataforma desarrollada e impulsada en colaboración técnica por:
 
 * **Tatiana Ramos** — *Frontend Architecture, Cybersecurity & Network Infrastructure Audit*
   * 🌐 [GitHub](https://github.com/TatiiRamos)
-  * 
+   
 * **Matías Galarza** — *Backend Architecture, Cloud Services & API Infrastructure*
   * 🌐 [GitHub](https://github.com/elmodulodeir)
 
